@@ -9,7 +9,7 @@ const LoginForm = () => {
                 <input name="username" type="text" placeholder="username" />
                 <input name="password" type="text" placeholder="password" />
                 
-                    <button type="submit"><Link href="/dashboard">Login</Link></button>
+                <button type="submit"><Link href="/dashboard">Login</Link></button>
                 
             </form>
         </div>
