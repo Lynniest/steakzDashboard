@@ -1,0 +1,22 @@
+{
+  "node": {
+    "053a7146a5e3da3c08946341ee3e592a1baa8d08": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CLynniest%5C%5COneDrive%20-%20BRILLAR%20PTE%20LTD%5C%5CDesktop%5C%5CL5_MIS%20Assignment%5C%5CNew%20folder%5C%5CsteakzDashboard%5C%5Capp%5C%5Clib%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    },
+    "052eacd7d0f86f46dafdfad93268f47bcd460b64": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CLynniest%5C%5COneDrive%20-%20BRILLAR%20PTE%20LTD%5C%5CDesktop%5C%5CL5_MIS%20Assignment%5C%5CNew%20folder%5C%5CsteakzDashboard%5C%5Capp%5C%5Clib%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "TLQWXaixik1aGTPVOHD9+GL8rkgF9WHidUXJPf8LMow="
+}
