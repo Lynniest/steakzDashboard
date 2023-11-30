@@ -1,0 +1,38 @@
+.container{
+    height: 500px;
+    background-color: rgb(62, 62, 63);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container_lg {
+    height: 550px;
+    background-color: rgb(61, 106, 107);
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.container_sm {
+    height: 250px;
+    background-color: transparent;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.title_sm {
+    color: var(--text);
+    font-size: medium;
+    padding-bottom: 10px;
+}
+
+.title{
+    font-weight: 250;
+    color: var(--text);
+    margin-bottom: 20px;
+}
+
+.pieLabel{
+    font-size: 14px;
+    color: black;
+}

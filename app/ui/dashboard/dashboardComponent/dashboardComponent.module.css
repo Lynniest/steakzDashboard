@@ -1,0 +1,42 @@
+.container {
+    height: 80dvh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 20px;
+}
+
+.title {
+    flex: 3;
+    width: 100%; 
+    color: var(--text);
+}
+
+.icon{
+    flex: 1;
+}
+
+.accessBtn {
+    flex: 1;
+    padding: 10px;
+    background-color: teal;
+    color: var(--text);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    align-self: flex-end;
+}
